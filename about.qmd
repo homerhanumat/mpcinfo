@@ -1,9 +1,5 @@
 ---
-title: "About"
+title: "About Us"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+We are the Department of Mathematics, Physics and Computer Science at [Georgetown College](https://www.georgetowncollege.edu/) in Kentucky, USA.

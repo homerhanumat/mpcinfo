@@ -1,9 +1,10 @@
 project:
   type: website
   output-dir: docs
+  resources: documents
 
 website:
-  title: "mpcinfo"
+  title: "MPC Information"
   navbar:
     left:
       - href: index.qmd

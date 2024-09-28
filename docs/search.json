@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Us",
+    "section": "",
+    "text": "We are the Department of Mathematics, Physics and Computer Science at Georgetown College in Kentucky, USA."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the MPC Information Site",
+    "section": "",
+    "text": "This is where we post selected documents for our students."
+  },
+  {
+    "objectID": "index.html#documents",
+    "href": "index.html#documents",
+    "title": "Welcome to the MPC Information Site",
+    "section": "Documents",
+    "text": "Documents\n\nInformation Technology Advising Notes\nWeb Design Advising Notes"
+  }
+]
