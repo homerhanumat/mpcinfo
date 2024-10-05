@@ -6,5 +6,6 @@ This is where we post selected documents for our students.
 
 ## Documents
 
+* [Mathematics Major Advising Notes(/documents/Math_Fall24.pdf)]
 * [Information Technology Advising Notes](/documents/IT_Advising.pdf)
 * [Web Design Advising Notes](/documents/Web_Design_Advising.pdf)
