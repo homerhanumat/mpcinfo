@@ -16,6 +16,9 @@ This is where we post selected documents for our students.
   * Web Design
     * [Web Design Advising Notes](/documents/Web_Design_Advising.pdf)
     * [College Catalog link](https://catalog.georgetowncollege.edu/computer-science/web-design-major-wdn)
+  * Engineering Mathematics (including our Dual-Degree Program)
+    * [Engineering Mathematics Advising Notes](/documents/Engineering_Mathematics.pdf)
+    *  [College Catalog link](https://catalog.georgetowncollege.edu/mathematics/engineering-mathematics-major-egm)
   
 * Minor-only Programs
   * Data Analysis
