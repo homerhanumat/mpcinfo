@@ -25,3 +25,6 @@ This is where we post selected documents for our students.
     * [Data Analysis Notes](/documents/Data_Analysis_Minor_Info.pdf).
     * The above document is discussed in [this AI-generated podcast](https://notebooklm.google.com/notebook/51f3ba39-956d-446c-94fa-a1a2baf997f1/audio).  The two "podcast hosts" combine some genuine insights into the minor along with a lot of hype and at least one outright fib---one host claims to have "heard great things" about one of the courses in the minor---but the podcast is worth checking out in order to compare it critically with the document itself, and to inoculate oneself against a future onslaught of AI-generated marketing.
     * [College Catalog link](https://catalog.georgetowncollege.edu/data-analysis/data-analysis-minor-dta)
+  * Computer Science
+    * [Computer Science Notes](/documents/csc_minor_info.pdf)
+    * [College Catalog link](https://catalog.georgetowncollege.edu/computer-science/computer-science-minor-csc)
